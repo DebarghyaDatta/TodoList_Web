@@ -5,6 +5,8 @@ A dynamic web application that keeps track of the future activities/tasks that n
 ## Features:
 
 Dynamic, Data stored on cloud.
+Add / after the url to create a new list.
+For e.g url..../Tuesday will create a new list Tuesday.
 
 ## Live url:
 https://radiant-waters-65082.herokuapp.com/
